@@ -1,5 +1,5 @@
 //Cross-origin resource sharing
-const whitelist = ['https:www.applicationname.com', 
+const whitelist = [
 'http://127.0.0.1:5500', 
 'http://localhost:3000']
 const corsOptions = {

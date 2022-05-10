@@ -396,3 +396,16 @@
 2022 05 09	20:07:48 	 a057115e-1973-4b7c-8b78-9811eb776164 	 GET	 undefined 	 / 
 2022 05 09	20:07:49 	 51706cdf-7bc8-4182-880d-829f6e14d995 	 GET	 undefined 	 /css/style.css 
 2022 05 09	20:07:49 	 e2936641-85b3-4426-96f7-d6f5d2a0d899 	 GET	 undefined 	 /favicon.ico 
+2022 05 09	20:14:33 	 c2f5bd02-66cf-4dad-90d2-156ffefc6d42 	 GET	 undefined 	 / 
+2022 05 09	20:14:33 	 237c985b-bc65-4ee8-9614-a7c8dbeaab4b 	 GET	 undefined 	 /css/style.css 
+2022 05 09	20:14:35 	 1f8cd528-4c7e-414b-a19e-06ed82351fe5 	 GET	 undefined 	 / 
+2022 05 09	20:14:35 	 18b4d055-5610-4bec-b92d-479e5a3601ce 	 GET	 undefined 	 /css/style.css 
+2022 05 09	20:14:40 	 a6adac02-b0ab-4804-b39c-91787f5a2d38 	 GET	 undefined 	 /fish 
+2022 05 09	20:14:41 	 14c31b98-27eb-499f-ab29-2a0e8d0858b8 	 GET	 undefined 	 /css/style.css 
+2022 05 09	20:14:47 	 055df951-fff7-4b6c-9e1e-5dc8cb344a98 	 GET	 undefined 	 /states 
+2022 05 10	17:52:35 	 6e151fad-84a8-4aa3-afa3-4f11dbf6b2aa 	 GET	 undefined 	 / 
+2022 05 10	17:52:35 	 56ac8172-ee77-44de-9020-267cd21118ac 	 GET	 undefined 	 /css/style.css 
+2022 05 10	17:52:35 	 13bf2678-118a-4bf2-987f-19d8c739d906 	 GET	 undefined 	 /favicon.ico 
+2022 05 10	17:58:36 	 e6780c42-f26a-4302-beb5-7496c800a8ae 	 GET	 undefined 	 / 
+2022 05 10	17:59:30 	 5ec153c6-77f5-42af-a3d0-6b244eac2bbc 	 GET	 undefined 	 / 
+2022 05 10	17:59:30 	 fe7de90f-c47d-4879-a825-5fa9873fccdc 	 GET	 undefined 	 /css/style.css 
