@@ -203,7 +203,10 @@ if(!state){
   const result = await state.save();
   res.json(result);
   }
-  return res.status(400).json({message: 'Unable to add fun facts'});
+  else{
+    return res.status(400).json({message: 'Unable to add fun facts'});
+  }
+ 
 }
 catch (error) {console.log(error)}
 }; 

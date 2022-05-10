@@ -393,3 +393,6 @@
 2022 05 08	11:54:31 	 b0fc8ae7-03c0-4835-8497-9fc30ecdf857 	 GET	 undefined 	 /states/tx/population 
 2022 05 08	11:56:12 	 193f6ae8-ec13-463a-aaf5-dfb813f0c0d4 	 GET	 undefined 	 /states/tx/population 
 2022 05 08	11:56:52 	 009f815b-3589-4746-8d69-c6294fc2eb89 	 GET	 undefined 	 /states/tx/admission 
+2022 05 09	20:07:48 	 a057115e-1973-4b7c-8b78-9811eb776164 	 GET	 undefined 	 / 
+2022 05 09	20:07:49 	 51706cdf-7bc8-4182-880d-829f6e14d995 	 GET	 undefined 	 /css/style.css 
+2022 05 09	20:07:49 	 e2936641-85b3-4426-96f7-d6f5d2a0d899 	 GET	 undefined 	 /favicon.ico 
